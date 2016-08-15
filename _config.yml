@@ -6,9 +6,9 @@ color:
   saturation: 0.25528619159013033
   rhythmicContrast: 0.9250564088579267
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#050C05'
+    - '#03BFFE'
+    - '#C7F3FE'
+    - '#C41615'
+    - '#9C804A'
 name: here
