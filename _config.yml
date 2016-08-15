@@ -1,0 +1,14 @@
+layout_spectrum: 0.4690342149697244
+typography_spectrum: 0.7242818945087492
+color:
+  brandStrength: 0.7835158286616206
+  lightness: 0.8539254008792341
+  saturation: 0.25528619159013033
+  rhythmicContrast: 0.9250564088579267
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: here
